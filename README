@@ -9,7 +9,7 @@ REQUISITOS: TARJETA WIFI INTERNA O EXTERNA
             
             INSTALACION
             
-git clone
+git clone https://github.com/yaxter/DoS-Wifi.git
 cd DoS-Wifi
 chmod 777 DOSWIFI.sh
 ./DOSWIFI.sh
