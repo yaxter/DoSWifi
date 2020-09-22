@@ -1,0 +1,34 @@
+ ¿COMO SE USA ESTE SCRIPT?                                            
+                                                                                
+                                                                                
+ESTE SCRIPT UTILIZA LA SUIT DE AIRCRACK PARA AUTOMATIZAR                        
+DE MANERA CORRECTA LOS ATAQUES DE DEAUTENTICACION A REDES WIFI LOS CUALES       
+TIENEN COMO OBJETIVO EXPULSAR A TODOS LOS USUARIOS DE                           
+CUALQUIER RED WIFI A EXCEPCION DE LOS USUARIOS CONECTADOS MEDIANTE CABLE        
+ETHERNET.                                                                       
+                                                                                
+                                                                                
+REQUISITOS DE ESTE SCRIPT:                                                      
+                                                                                
+* TENER INSTALADA LA SUITE DE AIRCRACK-NG                                       
+* TARJETA WIFI CON MODO MONITOR E INYECCION DE PAQUETES (INTERNA O USB)         
+                                                                                
+                                                                                
+                                                                                
+TIPOS DE ATAQUE                                                                 
+                                                                                
+AVANZADO: CON ESTE ATAQUE PUEDES ATACAR A CUALQUIER RED WIFI DE TU              
+ALREDEDOR, ESTE ATAQUE TE PERMITE CAMBIAR DE CANAL TU TARJETA WIFI              
+DE MANERA CORRECTA ADEMAS DE ACTIVAR EL MODO MONITOR A TU TARJETA DE            
+RED SIN COMPLICACIONES.                                                         
+                                                                                
+SIMPLE: ESTE ATAQUE SOLO LO PUEDES USAR SI TU TARJETA DE RED YA ESTA EN MODO    
+MONITOR Y SI LA RED WIFI A ATACAR TIENE EL MISMO CANAL QUE TU TARJETA WIFI      
+ES DECIR QUE PUEDES ATACAR A VARIAS REDES WIFI AL MISMO TIEMPO                  
+SIEMPRE Y CUANDO TENGAN EL MISMO CANAL.                                         
+NOTA: SI TIENE ALGUN ERROR EJECUTE EL ATAQUE AVANZADO                           
+                                                                                
+ESPERO QUE ESTE SCRIPT TE SEA MUY UTIL Y TE DIVIERTAS DEJANDO SIN INTERNET      
+A TUS VECINOS XD                                                                
+                                                                                
+CUALQUIER DUDA O PREGUNTA HAZMELA SABER EN MI CUENTA DE GITHUB: yaxter
