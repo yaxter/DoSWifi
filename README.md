@@ -17,7 +17,7 @@ TARJETA WIFI INTERNA O EXTERNA Y SUITE DE AIRCRACK-NG
 ```
 git clone https://github.com/yaxter/DoSWifi.git
 cd DoSWifi
-chmod 777 DOSWIFI.sh
-./DOSWIFI.sh
+chmod 777 DOSWIFI
+./DOSWIFI
 ```          
  
