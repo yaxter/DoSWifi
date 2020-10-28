@@ -1,5 +1,4 @@
-
-    ##DoS Wifi Attack
+##DoS Wifi Attack
     
 SCRIPT MUY POTENTE CAPAZ DE EXPULSAR A TODOS LOS USUARIOS DE CUALQUIER
 RED WIFI CERCANA...
@@ -8,7 +7,7 @@ REQUISITOS: TARJETA WIFI INTERNA O EXTERNA
             SUITE DE AIRCRACK
             
 ![pic1](https://i.ibb.co/xG371LP/Captura-de-pantalla-2020-09-22-01-09-14.png)           
-            ##INSTALACION
+##INSTALACION
 '''            
 git clone https://github.com/yaxter/DoSWifi.git
 cd DoSWifi
