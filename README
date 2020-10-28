@@ -6,8 +6,13 @@ RED WIFI CERCANA...
 REQUISITOS: TARJETA WIFI INTERNA O EXTERNA
             SUITE DE AIRCRACK
             
-![pic1](https://i.ibb.co/xG371LP/Captura-de-pantalla-2020-09-22-01-09-14.png)           
+ #IMAGEN           
+![pic1](https://i.ibb.co/xG371LP/Captura-de-pantalla-2020-09-22-01-09-14.png) 
+
+
 ##INSTALACION
+
+
 '''            
 git clone https://github.com/yaxter/DoSWifi.git
 cd DoSWifi
